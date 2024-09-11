@@ -30,7 +30,7 @@ Contents
 
 ## Each project contains the following:
 
-- **.twbx File:** The Tableau workbook file.
+- **.twb File:** The Tableau workbook file.
 - **Image:** Preview images of the dashboards.
 
 If you have any questions or feedback, feel free to reach out!
