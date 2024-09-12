@@ -14,7 +14,7 @@ Contents
   
 - **Project 3: Gaming Sales**
   
-    This detailed report visualizes gaming sales trends over the years. It includes vertical bar charts that showcase the best-selling genres and top gaming publishers in North America. Additionally, there are vertical bar charts illustrating the best-selling platforms in Europe. A line chart tracks yearly gaming sales, providing a clear view of sales trends over time.
+    This detailed report visualizes gaming sales trends over the years. It includes vertical bar charts that showcase the best-selling genres and top gaming publishers in North America. Additionally, there are horizontal bar charts illustrating the best-selling platforms in Europe. A line chart tracks yearly gaming sales, providing a clear view of sales trends over time.
 
 - **Project 4: NYC Airbnb**
 
