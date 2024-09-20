@@ -105,27 +105,29 @@ Contents
     purchases. PayPal remains a popular digital payment option with 60,927 purchases. Monthly purchase patterns fluctuate throughout the year, peaking in April with 221,137 purchases 
     and January with 198,778. The lowest spending occurs in February (98,147), with relatively consistent purchase behavior seen from September through December.
 
-- **Project 6: World Population**
+- **Project 6: Tech Stock**
 
-    This interactive dashboard offers an analysis of global population trends. Tokyo holds the position as the most populous city in 2024, boasting a staggering population of 37.1 
-    million. Following closely behind is Delhi, with 33.8 million residents, making it one of the largest cities in the world. Shanghai, the economic powerhouse of China, ranks third 
-    with a population of 29.8 million people. Other highly populated urban centers include Dhaka (23.9 million), the capital of Bangladesh, São Paulo (22.8 million), the largest city 
-    in Brazil, Cairo (22.6 million) in Egypt, and Mexico City (22.5 million), which continues to be one of the largest cities in Latin America.
+    This Tableau project presents a comprehensive dashboard analyzing major tech stocks over the period from 2020 to 2024. It consists of four key visualizations: stock price trends, 
+    trading volume, daily returns, and the relationship between market capitalization and P/E ratios.
 
-    When examining population growth rates, Bujumbura, the capital of Burundi, tops the list with an impressive growth rate of 5.82%, indicating rapid urbanization. Other African 
-    cities such as Lokoja (5.58%) and Bunia (5.45%) also show significant growth, reflecting broader trends of population expansion in certain parts of Africa. Kampala, Uganda’s 
-    capital, follows with a growth rate of 5.32%, while Aleppo, despite facing the challenges of post-war recovery, exhibits a population growth rate of 5.2%.
+    The "Stock Price Trend" graph, located in the upper-left corner, displays the historical stock price movements of several companies. Different colored lines represent each company, 
+    and the x-axis tracks the date from 2020 to 2024, while the y-axis shows the stock prices. This allows users to observe how the stock prices of each company have evolved over time.
 
-    On the opposite side, several cities in the Western world are experiencing population decline. New York City leads this trend, with a negative growth rate of -2.49%, signaling 
-    ongoing issues like suburbanization and possibly economic factors influencing migration. Chicago follows with a decrease of -1.43%, while Philadelphia, Los Angeles, and Beirut 
-    round out the cities with the steepest declines in population, all showing negative growth rates ranging from -1.07% to -0.78%.
+    On the upper-right side is the "Stock Volume" graph, which visualizes the trading volume of the selected stocks over the same period. The y-axis represents the volume of shares 
+    traded (in millions), while the x-axis shows the timeline. Each stock is represented by a color, and the spikes indicate periods of increased trading activity.
 
-    The global population density map reveals that the most densely populated areas are concentrated in East and South Asia, specifically in countries like China, India, and 
-    Bangladesh. There is also notable population density in parts of Africa, especially in regions experiencing high growth rates, and throughout parts of Europe. Meanwhile, population 
-    density is lower in regions such as North America, Australia, and certain parts of South America, where urban centers are more sparsely spread and overall populations are lower.
+    The lower-left chart, "Market Cap vs P/E Ratio," is a scatter plot that compares the market capitalization and price-to-earnings (P/E) ratios of the selected stocks. The x-axis 
+    represents the market cap in billions, and the y-axis displays the P/E ratio. Each dot represents a company, with its color identifying the stock ticker. This chart gives an 
+    overview of how large a company is compared to its valuation (P/E ratio).
 
-    This data highlights the ongoing trends of urban expansion in developing regions, especially in Africa and parts of Asia, while some of the world's largest and most developed 
-    cities face population stagnation or decline due to various economic, social, and migratory factors.
+    Finally, the "Daily Return" chart at the bottom right shows the daily percentage return for each stock. The x-axis marks the time, and the y-axis shows the daily return, allowing 
+    users to see how volatile each stock has been on a daily basis. Different colored lines represent each stock.
+
+    On the right side of the dashboard, there is a filter panel, allowing users to select specific companies from a list of tickers or adjust the date range using a slider. This 
+    interactive feature enables users to focus on specific time frames or stocks for a more detailed analysis.
+
+    In summary, the project brings together stock price trends, trading volume, daily returns, and market cap versus P/E ratio data into a single interactive dashboard that helps users 
+    visualize and explore key tech stocks' performance over the years.
 
 ## Each project contains the following:
 
