@@ -93,17 +93,35 @@ Contents
   
 - **Project 5: Retail Data**
   
-    Consumer spending patterns vary significantly by income, with medium-income earners contributing the largest share of total spending at $178 million. Low-income earners follow with 
-    $131 million, while high-income earners contribute the least at $102 million. The brand preferences of consumers show Pepsi as the most popular brand with 162,186 purchases, far 
-    ahead of other top brands like Samsung (98,796 purchases), Zara (98,327), Coca-Cola (98,281), and Sony (97,995).
+    This Tableau dashboard provides a detailed analysis of customer purchasing behavior, focusing on spending patterns across different income levels, product brands, countries, 
+    categories, payment methods, and months. The visualizations break down various aspects of retail performance to offer insights into purchasing trends.
 
-    The geographical distribution of spending shows that the United States leads with $129.7 million in total expenditures. The UK follows with $86.6 million, Canada with $61.7 
-    million, and Australia with $61.9 million. In terms of product categories, electronics is the dominant category with 381,410 purchases, followed by groceries at 357,248. Clothing 
-    (293,529), books (292,075), and home decor (291,014) are also popular categories among consumers.
+    The "Spending By Income" chart in the upper-left corner shows how much each income group spends. Medium-income customers contribute the highest amount, at over $178 million, 
+    followed by low-income customers at $131 million. Interestingly, high-income earners spend the least, at $102 million, suggesting that the medium-income group is the most active or 
+    influential in terms of total purchases.
 
-    When it comes to payment methods, credit cards are the preferred choice, with 90,010 purchases. Debit cards are close behind with 76,711, while cash transactions account for 73,732 
-    purchases. PayPal remains a popular digital payment option with 60,927 purchases. Monthly purchase patterns fluctuate throughout the year, peaking in April with 221,137 purchases 
-    and January with 198,778. The lowest spending occurs in February (98,147), with relatively consistent purchase behavior seen from September through December.
+    The "Best Selling Brands" bar chart in the upper-center section highlights the most popular brands. Pepsi leads with 162,186 total purchases, far ahead of other brands like 
+    Samsung, Zara, Coca-Cola, and Sony, which have similar purchase counts, each hovering around 98,000 to 97,000. This indicates Pepsi's strong dominance in the market, with the other 
+    brands maintaining competitive but relatively similar performance.
+
+    In the "Money Spent Per Country" map on the upper-right side, the visualization tracks spending by country. The USA tops the list, with $129.7 million spent, followed by the UK at 
+    $86.6 million, and Australia with $61.9 million. Canada shows the lowest recorded spending at $61.7 million. These figures suggest that North America and Europe are the 
+    most significant markets in terms of spending, with the USA leading by a considerable margin.
+
+    The "Best Selling Categories" bar chart, located in the lower-left corner, breaks down product purchases by category. Electronics is the leading category, with 381,410 purchases, 
+    followed by Grocery at 357,248. Clothing, Books, and Home Décor follow, each with over 290,000 purchases, reflecting a balanced distribution of consumer preferences across a 
+    variety of product categories.
+
+    In the "Payment Methods" pie chart to the right of the categories, credit card payments dominate, accounting for 90,010 purchases. Debit cards come in second at 76,711, while cash 
+    transactions total 73,732. PayPal is the least-used method, with 60,927 purchases, indicating a preference for traditional payment methods like cards and cash.
+
+    The "Monthly Purchases" line chart at the bottom-right shows fluctuations in total purchases by month. The highest purchases occurred in April, with 221,317, while June and 
+    November have the fewest, at around 98,000. After peaking in April, the purchases trend downwards, with occasional spikes in August and january, suggesting seasonal buying 
+    patterns, possibly tied to sales events or holidays.
+
+    Overall, this dashboard provides a comprehensive view of consumer behavior across various dimensions, highlighting key trends such as the dominance of medium-income spenders, 
+    Pepsi's lead as a top brand, the USA's significance in terms of spending, and the strong performance of electronics as a product category. The dashboard also shows a preference for 
+    credit card payments and suggests seasonal patterns in purchasing behavior, with activity peaking in April.
 
 - **Project 6: Tech Stock**
 
