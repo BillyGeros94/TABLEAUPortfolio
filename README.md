@@ -4,7 +4,7 @@ Welcome to my Tableau Portfolio! This repository showcases a variety of Tableau 
 
 Contents
 
-- **Project 1: Fortune 1000 (2024)**
+- **Project 1: Fortune 1000**
 
    This project presents an analysis of Fortune 1000 companies, examining metrics such as market value, revenue, profitability, employment, and leadership diversity. Starting with the 
    most valuable public companies, Apple leads with a market cap of over $3.5 trillion, followed by Microsoft and Nvidia, which are also above $3 trillion. Other tech giants like 
