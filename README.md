@@ -6,26 +6,29 @@ Contents
 
 - **Project 1: Fortune 1000**
 
-   This project presents an analysis of Fortune 1000 companies, examining metrics such as market value, revenue, profitability, employment, and leadership diversity. Starting with the 
-   most valuable public companies, Apple leads with a market cap of over $3.5 trillion, followed by Microsoft and Nvidia, which are also above $3 trillion. Other tech giants like 
-   Alphabet and Amazon maintain significant valuations but lag behind Apple. Smaller players like Meta, Berkshire Hathaway, and Broadcom round out the list, with Broadcom being the 
-   lowest, at just under $800 billion.
+    The Tableau dashboard presents an overview of a broad range of Fortune 1000 companies, across multiple industries, analyzing their revenue, profitability, sector-wise performance, 
+    female CEO representation, and geographical distribution. This is a more generalized analysis of the entire Fortune 1000 list, offering insights into 
+    various sectors.
 
-   In terms of revenue, Walmart stands out as the highest-earning company, with over $648 billion in annual revenue, far surpassing other major companies. Amazon follows closely behind 
-   with $574 billion, while companies like Apple, Berkshire Hathaway, and UnitedHealth Group post more moderate revenues between $364 billion and $383 billion. Walmart’s dominance in 
-   revenue highlights its massive scale in the retail sector, while tech and financial giants lead in other categories.
+    The "Companies by Revenue (M)" bar chart at the top left ranks companies based on their revenue. The significant variation in revenue highlights the diversity of industries, where  
+    some companies like reatailing giants or health care command much higher revenues than others.
 
-   The analysis of the largest industries by employment shows that general merchandisers (over 3.1 million employees) and internet services/retailing (over 2 million employees) are the 
-   primary employers. Other significant sectors include specialty retailers, commercial banks, and information technology services, each employing more than 1.6 million people. This 
-   emphasizes the importance of both retail and tech sectors in terms of providing large-scale employment.
+    To the right, the "Revenue vs Profit" scatter plot compares company performance, plotting revenue against profit. Apple stands out prominently with a strong balance of high revenue 
+    and substantial profit, followed by other tech giants like Microsoft, Alphabet (Google), and Meta (Facebook), which show strong profitability compared to companies like ExxonMobil 
+    and Walmart, which have high revenues but comparatively lower profits.
 
-   From a profitability perspective, technology and financials are the most profitable sectors, with profits exceeding $450 billion and $418 billion, respectively. The energy sector, 
-   with $240 billion in profits, also ranks high, driven by its capital-intensive nature. Retailing, despite its massive employment, is far less profitable, with only $112 billion in 
-   profits, reflecting the thin margins that characterize this industry.
+    The "Sector-wise Revenue and Profit" chart at the bottom left categorizes these companies by industry sectors. The chart shows that sectors like Energy, Financials, and Healthcare 
+    dominate in terms of revenue, with massive figures. However, despite large revenues in these sectors, profits can vary significantly, suggesting that profitability might not always 
+    correlate with revenue size. The range of industries represented underscores the Fortune 1000's diversity across the U.S. economy.
 
-   Finally, the analysis of female CEO representation in Fortune 1000 companies reveals a significant gender imbalance. Only 9.7% of these companies are led by women, highlighting the 
-   persistent underrepresentation of female leadership at the executive level. This stark disparity suggests that while companies may be progressing in profitability and scale, 
-   diversity in leadership remains a critical area for improvement.
+    On the bottom right, the pie chart titled "Female CEO Representation" highlights the gender disparity in leadership within these companies, with only 9.7% of companies having female 
+    CEOs. Although this percentage is higher compared to other industries, it still reflects a significant leadership gender gap in corporate America.
+
+    Finally, the "Geographical Distribution" map shows the headquarters of these companies, with a concentration in key states like California, Texas, and New York, which are 
+    traditional business hubs. These regions host the majority of the largest corporations in the U.S., reflecting their strategic importance in the country's economy.
+
+    Overall, this dashboard provides a high-level, comprehensive view of the Fortune 1000 companies across multiple industries, focusing on revenue and profit disparities, low female 
+    CEO representation, and geographical distribution across the U.S.
 
 - **Project 2: Forbes Billionaires**
 
@@ -48,27 +51,31 @@ Contents
     A geographical analysis of billionaires highlights the significant concentration of wealth in certain parts of the world. This concentration of wealth underscores the global 
     dominance of these countries in terms of wealth creation and accumulation.
   
-- **Project 3: Gaming Sales**
+- **Project 3: Adidas Sales**
   
-    This project examines global video game sales across genres, platforms, publishers, and time, with a specific focus on Europe and North America. Beginning with genres, action games 
-    lead the market with 1,751 million global sales, followed by sports and shooters at 1,331 and 1,037 million sales, respectively. Role-playing games and platformers are also strong 
-    performers, while niche genres like strategy and adventure bring in much lower sales, with strategy games being the least popular, at 175 million sales globally.
+    The Tableau dashboard provides a detailed overview of Adidas' sales performance in the U.S. across different dimensions. The key metrics analyzed include operating profit, sales, 
+    units sold, and product profitability, which are broken down by geography, retailers, and product categories.
 
-    The analysis of top-selling platforms in Europe highlights the dominance of the PlayStation 3 (PS3), with 343.7 million sales, followed closely by Xbox 360, at 280.6 
-    million. Nintendo Wii and PS also make a significant impact, with over 200 million sales each. Handheld consoles like the DS and PSP feature lower but still substantial 
-    sales, while more recent platforms like the PlayStation 4 (PS4) have fewer sales, reflecting its shorter market presence compared to older systems.
+    In the top left, the "Profitability Map" highlights the geographical distribution of Adidas' operating profit, with darker shades indicating higher profitability. The states in the 
+    Midwest and East Coast appear to have the highest concentrations of profit, suggesting that these regions are key markets for Adidas in the U.S.
 
-    In North America, the top five publishers are led by Nintendo, which has a commanding presence with 816.9 million sales. Electronic Arts follows with 595.1 million, while 
-    Activision ranks third with 429.7 million. Sony and Ubisoft, though successful, lag behind with 265.2 and 253.4 million sales, respectively. This underlines the significant 
-    influence of traditional gaming giants like Nintendo and EA in the North American market.
+    Moving to the middle section, the "Sales" and "Profit" charts track performance over time. From December 2019 to December 2021, both sales and profit exhibit a clear upward trend, 
+    with significant spikes around mid-2021. These patterns could indicate seasonal demand peaks or promotional campaigns that drove substantial increases in both sales volume and 
+    profitability.
 
-    The trend of yearly gaming sales over time shows a sharp rise starting in the late 1990s, peaking in 2008 at 678.9 million global sales. However, after the peak, there is a steady 
-    decline, reflecting various factors such as market saturation, shifting consumer preferences, and the emergence of new forms of entertainment like mobile gaming and streaming 
-    services. The decline continues into the mid-2010s, indicating a changing landscape in the gaming industry.
+    The "Units Sold" bar chart on the right shows a breakdown of the different product categories, with "Men's Street Footwear" leading in terms of units sold (593,320), followed by 
+    "Women's Apparel" and "Men's Athletic Footwear." This data suggests that streetwear, particularly for men, is the top-selling category for Adidas in the U.S.
 
-    This analysis highlights key insights into the gaming sector, showcasing the dominance of action and sports genres, the long-standing success of certain platforms in Europe, and 
-    the considerable influence of well-established publishers in North America. Additionally, the overall trend in gaming sales suggests that the industry has experienced periods of 
-    rapid growth but also faces evolving challenges as the market changes.
+    At the bottom, the "Retailers" bar chart compares the sales performance across different retail partners, including Amazon, Foot Locker, Kohl's, Sports Direct, Walmart, and West 
+    Gear. Foot Locker leads in terms of total sales and operating profit, indicating a strong partnership between Adidas and this retailer. West Gear, despite having high total sales, 
+    has a relatively lower operating profit compared to other retailers, which might point to lower profit margins for products sold through this channel.
+
+    Finally, the "Products Profit" chart on the far right compares profitability across different product categories. "Men's Street Footwear" again stands out as the most profitable 
+    category, followed by "Women's Apparel" and "Men's Athletic Footwear." This aligns with the units sold data, reinforcing the idea that footwear is a major driver of Adidas' 
+    profitability in the U.S. market.
+
+    Overall, the dashboard provides a comprehensive view of Adidas' sales performance, highlighting the dominance of certain product categories, the importance of key retail partners, 
+    and the regional distribution of profitability in the U.S.
 
 - **Project 4: NYC Airbnb**
 
