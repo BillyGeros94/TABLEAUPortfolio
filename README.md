@@ -29,7 +29,7 @@ Contents
     Each of these visualizations plays a distinct role in delivering insights related to company performance, industry breakdown, leadership diversity, and geographical distribution, 
     making the dashboard an effective tool for exploring multiple dimensions of Fortune 1000 companies.
 
-- **Project 2: Forbes Billionaires**
+- **Project 2: UCL 23-24**
 
     This project provides a detailed visual analysis of team performance in the 2023-2024 UEFA Champions League. The top-left bar chart ranks teams by points, with Real Madrid leading 
     at 28, followed by Manchester City and Bayern Munich. There’s a significant drop-off in points as we move down, highlighting the dominance of the top teams and the struggles of 
