@@ -78,24 +78,28 @@ Contents
 
 - **Project 4: NYC Airbnb**
 
-    This project provides an analysis of Airbnb listings across different neighborhood groups in New York City, examining average prices, the number of listings, room types, and the 
-    most expensive neighborhoods. Manhattan clearly dominates in terms of listing prices, with an average of $196.9 per night, making it the most expensive borough. Brooklyn follows 
-    with $124.4, while the Bronx offers the most affordable listings at $87.5. Queens and Staten Island have relatively lower prices, with Staten Island's average price being just over 
-    $114.
+    This Tableau dashboard analyzes Airbnb listings across New York City, broken down by neighborhood groups and various metrics. On the left side, there are several filters allowing 
+    users to refine the data based on Neighbourhood Group (Bronx, Brooklyn, Manhattan, Queens, Staten Island), specific Neighborhood, Room Type (Entire home/apt, Private room, Shared 
+    room), and other metrics such as Price, Availability, Number of Reviews, and Minimum Nights.
 
-    When it comes to the number of listings, Manhattan and Brooklyn lead with over 21,000 and 20,000 listings, respectively. Queens has a more modest presence with 5,666 listings, 
-    while the Bronx and Staten Island offer significantly fewer, at just over 1,000 and 373 listings each. This demonstrates that Manhattan and Brooklyn are the primary hubs for Airbnb 
-    activity in New York City, likely due to their central locations and tourist attractions.
+    The main visualizations in the center display several important insights. First, the "Average Listing Price" bar chart shows that Manhattan has the highest average listing price at 
+    $196.88, followed by Brooklyn at $124.38. Staten Island, Queens, and the Bronx have lower average prices, with the Bronx being the most affordable at $87.50.
 
-    Room type prices vary considerably, with entire homes or apartments being the most expensive option at $211.8 per night on average. Private rooms, priced at $89.8, and shared rooms 
-    at $70.1, are much more affordable alternatives. This highlights the flexibility in accommodation options available through Airbnb, catering to both high-end and budget travelers.
+    Next to that is the "Number of Listings" bar chart. It reveals that Manhattan and Brooklyn dominate in terms of the total number of listings, with 21,661 and 20,104 listings, 
+    respectively. Queens comes next with 5,666, while the Bronx and Staten Island have significantly fewer listings, with 1,091 and 373, respectively.
 
-    The most expensive neighborhoods are also analyzed, with Fort Wadsworth commanding an average price of $800 per night, making it by far the priciest location. Woodrow comes next at 
-    $700, followed by Tribeca and Sea Gate at around $490. Riverdale, Prince's Bay, and Battery Park City also feature as expensive neighborhoods, though their prices range from $367 
-    to $442. These areas, particularly in Staten Island and Manhattan, reflect the demand for luxury accommodations in New York City.
+    At the bottom, the "Room Type Prices" chart shows the price differences across room types. Entire home/apartment rentals have the highest average price at $211.79, while private 
+    rooms average $89.78, and shared rooms are the cheapest, at $70.13.
 
-    Lastly, the map of NYC neighborhood groups visually breaks down the geographic distribution of listings, showing a concentration in Manhattan and Brooklyn, while Staten Island, the 
-    Bronx, and Queens have fewer, more scattered listings. This spatial distribution further emphasizes the dominance of central neighborhoods in the Airbnb market.
+    The "Most Expensive Neighbourhoods" bar chart lists neighborhoods with the highest average prices. Fort Wadsworth leads with an average listing price of $800, followed by Woodrow at 
+    $700 and Tribeca at $490.64. These are premium neighborhoods with considerably higher prices compared to other parts of New York City.
+
+    Finally, the map on the right visualizes the distribution of listings across New York City. It uses color coding to show listings by Neighbourhood Group, with Manhattan in dark 
+    gray, Brooklyn in brown, Queens in yellow, the Bronx in blue, and Staten Island in light gray. Manhattan and Brooklyn appear densely packed with listings, while other boroughs have 
+    more sparse distributions, reflecting their lower number of listings.
+
+    This dashboard provides an insightful comparison of Airbnb data in New York City, highlighting trends in pricing, availability, and the distribution of listings across different 
+    neighborhoods.
   
 - **Project 5: Retail Data**
   
