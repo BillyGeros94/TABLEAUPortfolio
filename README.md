@@ -150,8 +150,9 @@ Contents
     Finally, the "Daily Return" chart at the bottom right shows the daily percentage return for each stock. The x-axis marks the time, and the y-axis shows the daily return, allowing 
     users to see how volatile each stock has been on a daily basis. Different colored lines represent each stock.
 
-    On the right side of the dashboard, there is a filter panel, allowing users to select specific companies from a list of tickers or adjust the date range using a slider. This 
-    interactive feature enables users to focus on specific time frames or stocks for a more detailed analysis.
+    On the right side of the dashboard, there is a filter panel, allowing users to select specific companies from a list of tickers or adjust the date range using a slider. 
+    Additionally, users can filter by closing price, daily return, P/E ratio, and volume. This interactive feature enables users to focus on specific time frames, stock characteristics, 
+    or performance metrics for a more detailed analysis.
 
     In summary, the project brings together stock price trends, trading volume, daily returns, and market cap versus P/E ratio data into a single interactive dashboard that helps users 
     visualize and explore key tech stocks' performance over the years.
