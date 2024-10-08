@@ -115,12 +115,12 @@ Contents
     and enhance the customer checkout experience.
 
     The "Money Spent Per Country" map illustrates the spending habits of consumers across different regions. The USA stands out as the largest market, contributing a staggering 
-    126,573,745 to total sales. Germany, Australia, and Canada also show significant spending, indicating strong consumer markets in these countries. This geographic analysis can inform 
-    targeted marketing efforts and product distribution strategies to meet regional demand.
+    $126,573,745 to total sales. Germany, Australia, and Canada also show significant spending, indicating strong consumer markets in these countries. This geographic analysis can 
+    inform targeted marketing efforts and product distribution strategies to meet regional demand.
 
-    When examining spending by income, the dashboard reveals that medium-income consumers are the most significant contributors, with a total spending of 173,762,380. In contrast, low- 
-    income consumers account for 128,464,477, while high-income consumers contribute 99,751,391. This data can help retailers tailor their offerings and promotions to better align with 
-    the purchasing power of different income segments.
+    When examining spending by income, the dashboard reveals that medium-income consumers are the most significant contributors, with a total spending of $173,762,380. In contrast, low- 
+    income consumers account for $128,464,477, while high-income consumers contribute $99,751,391. This data can help retailers tailor their offerings and promotions to better align 
+    with the purchasing power of different income segments.
 
     The analysis of product categories further enriches the dashboard, with electronics leading in sales at 372,007 units, followed closely by grocery and clothing. This insight 
     suggests that consumers prioritize certain categories, allowing retailers to adjust their product offerings and marketing campaigns to highlight these popular items.
